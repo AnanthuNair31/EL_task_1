@@ -40,7 +40,7 @@ NOTE-  Libraries Used
 
 Boxplots are used to visualize:
 - Raw vs Cleaned distribution of 'Age', 'Fare', 'SibSp', 'Parch'
-
+Dataset used: Titanic dataset from Kaggle
 
 
 
